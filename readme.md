@@ -1,0 +1,3 @@
+- main_logic.py contains functions used in the main process.
+- helper.py contained helper function.
+- The ipynb notebook contains the whole process of our program.
